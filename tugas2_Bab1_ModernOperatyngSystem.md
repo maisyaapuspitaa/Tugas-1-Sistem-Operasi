@@ -7,7 +7,7 @@
 <p align = "justify"> Most readers will have had some experience with an operating system such as Windows, Linux, FreeBSD, or OS X, but appearances can be deceiving. The program that users interact with, usually called the <b>shell</b> when it is text based and the <b>GUI (Graphical User Interface)</b> which is pronounced ‘‘gooey’’—when it uses icons, is actually not part of the operating system, although it uses the operating system to get its work done.</p>
 
 <p align = "justify"> A simple overview of the main components under discussion here is given in Fig. 1-1. Here we see the hardware at the bottom. The hardware consists of chips, boards, disks, a keyboard, a monitor, and similar physical objects. On top of the hardware is the software. Most computers have two modes of operation: kernel mode and user mode. The operating system, the most fundamental piece of software, runs in <b>kernel mode</b> (also called <b>supervisor mode</b>). In this mode it has</p>
-<center>1</center>
+<p align = "center"> 1 </p>
 
 __________
 
@@ -15,7 +15,7 @@ __________
 <p align = "justify"> complete access to all the hardware and can execute any instruction the machine is capable of executing. The rest of the software runs in <b>user mode</b>, in which only a subset of the machine instructions is available. In particular, those instructions that affect control of the machine or do <b>I/O )Input</b>/Output" are forbidden to user-mode programs. We will come back to the difference between kernel mode and usermode repeatedly throughout this book. It plays a crucial role in how operating systems work.</p>
 
 
-<p align = "center"><img src = "figure 1.1.png"><br><b>Figure 1-1.</b> Where the operating system fits in</p></br>
+<p align = "center"><img src = "Figure 1.1.png"><br><b>Figure 1-1.</b> Where the operating system fits in</p></br>
 
 <p align = "justify">The user interface program, shell or GUI, is the lowest level of user-mode software, and allows the user to start other programs, such as a Web browser, email reader, or music player. These programs, too, make heavy use of the operating system.</p>
 
