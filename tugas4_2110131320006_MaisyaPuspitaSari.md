@@ -9,7 +9,7 @@ ______
 
 Mekanisme dan prinsip kerja model struktur monolitik sistem operasi ini adalah sebagai berikut:
 
-<p align = "center"> <img src = "Sistem Monolitik.jpg"></p>
+<p align = "center"> <img src = "Sistem Monolitik.JPG"></p>
 <p>Penjelasan Program gambar di atas</p>
 
 1. User program melakukan “trap” pada karnel
