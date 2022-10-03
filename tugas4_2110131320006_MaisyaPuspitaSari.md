@@ -1,6 +1,6 @@
-Nama : Maisya Puspita Sari
-NIM : 2110131320006
-Tugas : Tugas 4 Perbedaan Struktur Sistem Operasi Sederhana, Berlapis dan Mikrokernel
+* Nama : Maisya Puspita Sari
+* NIM : 2110131320006
+* Tugas : Tugas 4 Perbedaan Struktur Sistem Operasi Sederhana, Berlapis dan Mikrokernel
 ______
 
 ### 1. Struktur Sederhana
